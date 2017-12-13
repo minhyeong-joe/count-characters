@@ -1,0 +1,7 @@
+﻿  HW3_CharCount_VS2013.cpp
+HW3_CharCount_VS2013.cpp(82): warning C4244: '=': conversion from 'std::streamsize' to 'unsigned short', possible loss of data
+  Generating code
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HW3_CharCount_VS2013.vcxproj -> C:\Users\billy\Documents\GitHub\CPP\CountCharacters\Release\HW3_CharCount_VS2013.exe
+  HW3_CharCount_VS2013.vcxproj -> C:\Users\billy\Documents\GitHub\CPP\CountCharacters\Release\HW3_CharCount_VS2013.pdb (Full PDB)
